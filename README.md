@@ -2,9 +2,7 @@
 
 Is this your first time to a top conference? Have you ever wanted your own work recognized by this huge and active community? Do you encounter difficulties in polishing your ideas, experiments, paper writing, etc? Then, this session is exactly for you!
 
-This year, we are organizing this special New in ML workshop, co-locating with NeurIPS 2019. We are targeting anyone who has not published a paper at the NeurIPS main conference yet. We invited top NeurIPS researchers to review your work and share with you their experience in poster sessions and mentoring sessions. The best papers will get oral presentations and even awards!
-
-Our biggest goal is to help you publish papers at next year's NeurIPS conference, and generally provide you with the guidance you need to contribute to ML research fully and effectively!  
+This year, we are organizing this special New in ML workshop, co-locating with ICML 2020. We invited top  researchers to share their experience in diverse research directions. Our biggest goal is to help you publish papers at top conferences (e.g. ICML, NeurIPS), and generally provide you with the guidance you need to contribute to ML research fully and effectively!  
 
 # Important Dates
 
