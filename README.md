@@ -8,33 +8,25 @@ Our biggest goal is to help you publish papers at next year's NeurIPS conference
 
 # Important Dates
 
-- October 15th, 2019 (Anywhere on Earth): Paper submission deadline
-- November 8th, 2019: Author notification deadline
-- December 9th, 2019: Session day
-
-Within quota limits, the authors of the best accepted papers will be receiving the possibility of registering to NeurIPS and will be able to apply for travel awards, to be attributed according to merit and need.
+- July 13th, 2020: Session day
 
 # Program
 
 This will be a whole day session. 
-Tentative program:
+Tentative program: (time zone: UTC+8)
 
 |**Time**  | **Event**|
 |-|--------------------------------------------------|
-|07:00 - 09:00| Mentoring breakfast  |
-|09:00 - 09:15| **Opening address:**  Isabelle Guyon |
-|09:15 - 10:45| **Invited Talk:** Thomas G. Dietterich [slides](http://web.engr.oregonstate.edu/~tgd/talks/new-in-ml-2019.pdf)|
-|10:45 - 11:00| Break |
-|11:00 - 12:30| Six contributed talks of 10 min + 5 min questions [slides](https://drive.google.com/open?id=1tw8dMVqdIKj0RYeFCfvNIqPk526xL2ZG)|
-|12:30 - 14:00| Lunch and poster session |
-|14:00 - 15:00| Four contributed talks of 10 min + 5 min questions [slides](https://drive.google.com/open?id=1tw8dMVqdIKj0RYeFCfvNIqPk526xL2ZG)|
-|15:00 - 16:00| **Panel Discussion** (alphabetical order): Samy Bengio, Chip Huyen, <br/>Hugo Larochelle, Neil Lawrence, Charles Onu, Masashi Sugiyama, Liwei Wang|
-|16:00 - 16:30| Two contributed talks of 10 min + 5 min questions [slides](https://drive.google.com/open?id=1tw8dMVqdIKj0RYeFCfvNIqPk526xL2ZG)|
-|16:30 - 16:45| Award Ceremony, Closing remarks|
+|19:00 - 20:30| **Keynote Talk**|
+|20:30 - 21:30| **Invited Talk** |
+|21:30 - 22:00| Break|
+|22:00 - 22:40| **Invited Talk**|
+|22:40 - 23:20| **Invited Talk**|
+|22:30 - 22:00| **Panel Discussion** (alphabetical order): |
 
 # Organizers
 
-* Zhen Xu (Ecole Polytechnique/4Paradigm [xuzhen@4paradigm.com](xuzhen@4paradigm.com))
+* Zhen Xu (4Paradigm [xuzhen@4paradigm.com](xuzhen@4paradigm.com))
 * Zhengying Liu (U. PSud/INRIA, Université Paris-Saclay)
 * Sparkle Russell (Genentech/Roche Pharmaceuticals)
 * Xiawei Guo (4Paradigm)
