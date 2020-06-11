@@ -34,6 +34,8 @@ Tentative program: (time zone: UTC+8)
 * Isabelle Guyon (U. PSud/INRIA, Université Paris-Saclay and ChaLearn)
 * Samy Bengio (Google Brain, USA)
 * Wei-Wei Tu (4Paradigm, ChaLearn)
+* Matthias Seeger (Amazon, ICML Newcomers Chair)
+* Sinead Williamson (University of Texas, Austin, ICML Newcomer Chair)
 
 # Sponsors
 
