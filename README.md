@@ -27,7 +27,6 @@ Tentative program: (time zone: UTC+8)
 * Zhen Xu (4Paradigm [xuzhen@4paradigm.com](xuzhen@4paradigm.com))
 * Zhengying Liu (U. PSud/INRIA, Université Paris-Saclay)
 * Sparkle Russell (Genentech/Roche Pharmaceuticals)
-* Xiawei Guo (4Paradigm)
 
 # Advisors
 
