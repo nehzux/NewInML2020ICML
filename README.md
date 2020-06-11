@@ -20,7 +20,7 @@ Tentative program: (time zone: UTC+8)
 |21:30 - 22:00| Break|
 |22:00 - 22:40| **Invited Talk**|
 |22:40 - 23:20| **Invited Talk**|
-|22:30 - 22:00| **Panel Discussion** (alphabetical order): Ashley Edwards (Uber AI Labs) <br> Andreas Madsen (Independent Researcher) <br> Shakir Mohamed (DeepMind, Deep Learning Indaba) <br> Edward Raff (Booz Allen Hamilton) <br> Matthias Seeger (Amazon, ICML Newcomers Chair) <br> Sinead Williamson (University of Texas, Austin, ICML Newcomer Chair)|
+|22:30 - 22:00| **Panel Discussion** (alphabetical order): <br> Ashley Edwards (Uber AI Labs) <br> Andreas Madsen (Independent Researcher) <br> Shakir Mohamed (DeepMind, Deep Learning Indaba) <br> Edward Raff (Booz Allen Hamilton) <br> Matthias Seeger (Amazon, ICML Newcomers Chair) <br> Sinead Williamson (University of Texas, Austin, ICML Newcomer Chair)|
 
 # Organizers
 
