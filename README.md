@@ -10,17 +10,18 @@ This year, we are organizing again (last year at NeurIPS) this special New In ML
 
 # Program
 
-This will be a whole day session. 
-Tentative program: (time zone: UTC)
+This will be a whole day session. <br>
+Tentative program: (UTC time zone)
 
 |**Time**  | **Event**|
 |-|--------------------------------------------------|
 |11:00 - 12:30| **Keynote Talk**|
-|12:30 - 13:30| **Invited Talk** |
-|13:30 - 14:00| Break|
-|14:00 - 14:40| **Invited Talk**|
-|14:40 - 15:20| **Invited Talk**|
-|15:20 - 16:30| **Panel Discussion** (alphabetical order): <br> Ashley Edwards (Uber AI Labs) <br> Andreas Madsen (Independent Researcher) <br> Shakir Mohamed (DeepMind, Deep Learning Indaba) <br> Edward Raff (Booz Allen Hamilton) <br> Matthias Seeger (Amazon, ICML Newcomers Chair) <br> Sinead Williamson (University of Texas, Austin, ICML Newcomers Chair)|
+|12:30 - 13:10| **Invited Talk** |
+|13:10 - 13:30| Break|
+|13:30 - 14:10| **Invited Talk**|
+|14:10 - 14:50| **Invited Talk**|
+|14:50 - 15:00| Break|
+|15:00 - 16:00| **Panel Discussion** (alphabetical order): <br> Ashley Edwards (Uber AI Labs) <br> Andreas Madsen (Independent Researcher) <br> Shakir Mohamed (DeepMind, Deep Learning Indaba) <br> Edward Raff (Booz Allen Hamilton) <br> Matthias Seeger (Amazon, ICML Newcomers Chair) <br> Sinead Williamson (University of Texas, Austin, ICML Newcomers Chair)|
 
 # Organizers
 
