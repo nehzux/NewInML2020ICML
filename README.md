@@ -2,7 +2,7 @@
 
 Is this your first time to a top conference? Have you ever wanted your own work recognized by this huge and active community? Do you encounter difficulties in polishing your ideas, experiments, paper writing, etc? Then, this session is exactly for you!
 
-This year, we are organizing this special New in ML workshop, co-locating with ICML 2020. We invited top  researchers to share their experience in diverse research directions. Our biggest goal is to help you publish papers at top conferences (e.g. ICML, NeurIPS), and generally provide you with the guidance you need to contribute to ML research fully and effectively!  
+This year, we are organizing again (last year at NeurIPS) this special New In ML workshop, co-locating with ICML 2020. We invited top  researchers to share their experience in diverse research directions. Our biggest goal is to help you publish papers at top conferences (e.g. ICML, NeurIPS), and generally provide you with the guidance you need to contribute to ML research fully and effectively!  
 
 # Important Dates
 
@@ -11,16 +11,16 @@ This year, we are organizing this special New in ML workshop, co-locating with I
 # Program
 
 This will be a whole day session. 
-Tentative program: (time zone: UTC+8)
+Tentative program: (time zone: UTC)
 
 |**Time**  | **Event**|
 |-|--------------------------------------------------|
-|19:00 - 20:30| **Keynote Talk**|
-|20:30 - 21:30| **Invited Talk** |
-|21:30 - 22:00| Break|
-|22:00 - 22:40| **Invited Talk**|
-|22:40 - 23:20| **Invited Talk**|
-|22:30 - 22:00| **Panel Discussion** (alphabetical order): <br> Ashley Edwards (Uber AI Labs) <br> Andreas Madsen (Independent Researcher) <br> Shakir Mohamed (DeepMind, Deep Learning Indaba) <br> Edward Raff (Booz Allen Hamilton) <br> Matthias Seeger (Amazon, ICML Newcomers Chair) <br> Sinead Williamson (University of Texas, Austin, ICML Newcomer Chair)|
+|11:00 - 12:30| **Keynote Talk**|
+|12:30 - 13:30| **Invited Talk** |
+|13:30 - 14:00| Break|
+|14:00 - 14:40| **Invited Talk**|
+|14:40 - 15:20| **Invited Talk**|
+|15:20 - 16:30| **Panel Discussion** (alphabetical order): <br> Ashley Edwards (Uber AI Labs) <br> Andreas Madsen (Independent Researcher) <br> Shakir Mohamed (DeepMind, Deep Learning Indaba) <br> Edward Raff (Booz Allen Hamilton) <br> Matthias Seeger (Amazon, ICML Newcomers Chair) <br> Sinead Williamson (University of Texas, Austin, ICML Newcomer Chair)|
 
 # Organizers
 
