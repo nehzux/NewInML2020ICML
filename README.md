@@ -13,9 +13,9 @@ This year, we are organizing again (last year at NeurIPS) this special New In ML
 This will be a whole day session. <br>
 Tentative program: (UTC time zone)
 
-|**Time**  | **Event**|
+|**Time** | **Event**|
 |-|--------------------------------------------------|
-|11:00 - 12:30| **Keynote Talk**: Qiang Yang (WeBank; Hong Kong University of Science and Technology)|
+|11:00 - 12:30| **Keynote Talk**: Qiang Yang (WeBank; HKUST)|
 |12:30 - 13:15| **Invited Talk**: Joan Bruna (New York University)|
 |13:15 - 13:30| Break|
 |13:30 - 14:15| **Invited Talk**: |
