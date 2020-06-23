@@ -17,10 +17,10 @@ Tentative program: (UTC time zone)
 |-|--------------------------------------------------|
 |11:00 - 12:30| **Keynote Talk**: Qiang Yang (WeBank; Hong Kong University of Science and Technology)|
 |12:30 - 13:15| **Invited Talk**: Joan Bruna (New York University)|
-|13:15 - 13:30| Break|
+|13:15 - 13:30 <img width=50/>| Break|
 |13:30 - 14:15| **Invited Talk**: |
 |14:15 - 15:00| **Invited Talk**: Chelsea Finn (Stanford University)|
-|15:00 - 16:00 <img width=50/>| **Panel Discussion** (alphabetical order): <br> Ashley Edwards (Uber AI Labs) <br> Chelsea Finn (Stanford University) <br> Andreas Madsen (Independent Researcher) <br> Shakir Mohamed (DeepMind, Deep Learning Indaba) <br> Edward Raff (Booz Allen Hamilton) <br> Matthias Seeger (Amazon, ICML Newcomers Chair) <br> Sinead Williamson (University of Texas, Austin, ICML Newcomers Chair) <br> Tong Zhang (Hong Kong University of Science and Technology)|
+|15:00 - 16:00| **Panel Discussion** (alphabetical order): <br> Ashley Edwards (Uber AI Labs) <br> Chelsea Finn (Stanford University) <br> Andreas Madsen (Independent Researcher) <br> Shakir Mohamed (DeepMind, Deep Learning Indaba) <br> Edward Raff (Booz Allen Hamilton) <br> Matthias Seeger (Amazon, ICML Newcomers Chair) <br> Sinead Williamson (University of Texas, Austin, ICML Newcomers Chair) <br> Tong Zhang (Hong Kong University of Science and Technology)|
 
 # Organizers
 
