@@ -11,7 +11,7 @@ This year, we are organizing again (last year at NeurIPS) this special New In ML
 
 # Call For Papers
 
-Your ticket to NeurIPS 2021? Maybe!
+*Please note that for ICML2020, NewInML is not preparing a CFP. This is a CFP for NeurIPS 2020.*
 
 Since this is an exercise in writing good NeurIPS papers, the authors are requested to submit papers respecting the NeurIPS format and instructions: [https://nips.cc/Conferences/2020/CallForPapers](https://nips.cc/Conferences/2020/CallForPapers). **The page limit is 8 pages + extra references, but shorter papers with enough good contents are welcome.** We restrict that submissions are **not under review or accepted elsewhere**. Papers having been rejected before should be revised before submission to New In ML. We recommend sharing previous reviews with your new reviewers.
 
