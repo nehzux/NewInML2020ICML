@@ -8,6 +8,31 @@ This year, we are organizing again (last year at NeurIPS) this special New In ML
 
 - July 13th, 2020: Session day
 
+
+# Call For Papers
+
+Your ticket to NeurIPS 2021? Maybe!
+
+Since this is an exercise in writing good NeurIPS papers, the authors are requested to submit papers respecting the NeurIPS format and instructions: [https://nips.cc/Conferences/2020/CallForPapers](https://nips.cc/Conferences/2020/CallForPapers). **The page limit is 8 pages + extra references, but shorter papers with enough good contents are welcome.** We restrict that submissions are **not under review or accepted elsewhere**. Papers having been rejected before should be revised before submission to New In ML. We recommend sharing previous reviews with your new reviewers.
+
+All topics related to machine learning are welcome. They include but not limited to:
+- Adversarial Machine Learning
+- Automated Machine Learning
+- Bayesian Machine Learning
+- Causal Inference
+- Deep Learning Theory
+- Deep Learning Interpretability
+- Fairness and Differential Privacy
+- Graph Neural Networks
+- Meta Learning
+- Reinforcement Learning
+
+
+Paper submission is through CMT platform: TBD
+
+Accepted papers will be reviewed by expert NeurIPS reviewers and, if accepted, will get a talk or a poster at the workshop and expect coaching. <b> This will NOT count as an official NeurIPS publication, so papers submitted can then be revised and submitted to other venues like NeurIPS 2021, ICML 2021, but you should check the policy of other conferences if you want to re-submit elsewhere.</b>
+
+
 # Program
 
 This will be a whole day session. <br>
