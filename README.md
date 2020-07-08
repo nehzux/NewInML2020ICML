@@ -49,9 +49,11 @@ Tentative program: (UTC time zone)
 
 # Organizers
 
-* Zhen Xu (4Paradigm [xuzhen@4paradigm.com](xuzhen@4paradigm.com))
+* Zhen Xu (4Paradigm)
 * Zhengying Liu (U. PSud/INRIA, Université Paris-Saclay)
 * Sparkle Russell (Genentech/Roche Pharmaceuticals)
+
+If you have any question, feel free to contact [us](xuzhen@4paradigm.com).
 
 # Advisors
 
