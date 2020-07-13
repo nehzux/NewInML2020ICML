@@ -8,6 +8,8 @@ This year, we are organizing again (last year at NeurIPS) this special New In ML
 
 - July 13th, 2020: Session day
 
+**You should be able to join the zoom meeting in icml.cc - workshop - New In ML workshop page. If you can't join, please contact [us](mailto:xuzhen@4paradigm.com).**
+
 
 # Call For Papers
 
