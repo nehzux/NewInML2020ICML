@@ -42,7 +42,7 @@ Tentative program: (UTC time zone)
 
 |**Time** | **Event**|
 |-|--------------------------------------------------|
-|11:00 - 12:30| **Keynote Talk**: [Qiang Yang](http://www.cs.ust.hk/~qyang/) (WeBank; HKUST)|
+|11:00 - 12:30| **Keynote Talk**: [Qiang Yang](http://www.cs.ust.hk/~qyang/) (WeBank; HKUST) [slide](slides/ICML_Talk_Three Law_ENG_QY.pdf)|
 |12:30 - 13:15| **Invited Talk**: [Joan Bruna](https://cims.nyu.edu/~bruna/) (New York University)|
 |13:15 - 13:30| Break|
 |13:30 - 14:15| **Invited Talk**: [Nicolas Le Roux](http://nicolas.le-roux.name/) (Google Brain Montreal)|
