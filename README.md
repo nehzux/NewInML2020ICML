@@ -42,11 +42,11 @@ Tentative program: (UTC time zone)
 
 |**Time** | **Event**|
 |-|--------------------------------------------------|
-|11:00 - 12:30| **Keynote Talk**: [Qiang Yang](http://www.cs.ust.hk/~qyang/) (WeBank; HKUST) [slide](slides/ICML_Talk_Three Law_ENG_QY.pdf)|
+|11:00 - 12:30| **Keynote Talk**: [Qiang Yang](http://www.cs.ust.hk/~qyang/) (WeBank; HKUST)  [slide](slides/ICML_Talk_Three Law_ENG_QY.pdf)|
 |12:30 - 13:15| **Invited Talk**: [Joan Bruna](https://cims.nyu.edu/~bruna/) (New York University)|
 |13:15 - 13:30| Break|
-|13:30 - 14:15| **Invited Talk**: [Nicolas Le Roux](http://nicolas.le-roux.name/) (Google Brain Montreal)|
-|14:15 - 15:00| **Invited Talk**: [Sinead Williamson](https://sinead.github.io/index.html) (UT Austin, ICML Newcomers Chair)|
+|13:30 - 14:15| **Invited Talk**: [Nicolas Le Roux](http://nicolas.le-roux.name/) (Google Brain Montreal) [slide](slides/NewInML - Nicolas.pdf)|
+|14:15 - 15:00| **Invited Talk**: [Sinead Williamson](https://sinead.github.io/index.html) (UT Austin, ICML Newcomers Chair) [slide](slides/NewInML - Sinead.pdf)|
 |15:00 - 16:00| **Panel Discussion** (alphabetical order): <br> [Ashley Edwards](https://ashedwards.github.io/) (ML Collective) <br> [Chelsea Finn](http://ai.stanford.edu/~cbfinn/) (Stanford University) <br> [Andreas Madsen](https://andreasmadsen.github.io/) (Independent Researcher) <br> [Shakir Mohamed](https://shakirm.com/) (DeepMind, Deep Learning Indaba) <br> [Edward Raff](https://www.edwardraff.com/) (Booz Allen Hamilton) <br> [Tong Zhang](http://tongzhang-ml.org/) (Hong Kong University of Science and Technology) <br><br>**Monitor**: [Matthias Seeger](https://mseeger.github.io/) (Amazon, ICML Newcomers Chair)|
 
 # Organizers
